@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e035059-b337-4137-8757-9232c6ebfcb2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/time value of money/amortization schedule.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/time value of money/amortization schedule.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time value of money/internal rate of return.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/time value of money/internal rate of return.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time value of money/retirement planning solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/time value of money/retirement planning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/time value of money/retirement planning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time value of money/two-stage valuation model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/time value of money/two-stage valuation model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665434058919</updated>
       <workItem from="1665434061160" duration="9662000" />
-      <workItem from="1685461867833" duration="969000" />
+      <workItem from="1685461867833" duration="1563000" />
     </task>
     <servers />
   </component>
